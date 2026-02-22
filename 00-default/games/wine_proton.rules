@@ -359,19 +359,11 @@
 
 ### C ###
 
-# Crab Champions
-# https://store.steampowered.com/app/774801
-{ "name": "CrabChampions.exe", "type": "Game" }
-
-# Call of Duty Black Ops III
-# https://store.steampowered.com/app/311210
-{ "name": "BlackOps3.exe", "type": "Game" }
+# https://store.steampowered.com/app/399810/Call_of_Cthulhu/
+{ "name": "CallOfCthulhu.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/22340/Call_of_Cthulhu_Dark_Corners_of_the_Earth/
 { "name": "CoCMainWin32.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/399810/Call_of_Cthulhu/
-{ "name": "CallOfCthulhu.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/251390/Call_of_Cthulhu_The_Wasted_Land/
 { "name": "Cthulhu.exe", "type": "Game" }
@@ -388,18 +380,6 @@
 { "name": "iw3sp.exe", "type": "Game" }
 { "name": "iw3mp.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/10090/Call_of_Duty_World_at_War/
-{ "name": "CoDWaW.exe", "type": "Game" }
-{ "name": "CoDWaWmp.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/2640/Call_of_Duty_United_Offensive/
-{ "name": "CoDUOMP.exe", "type": "Game" }
-{ "name": "CoDUOSP.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/10180/Call_of_Duty_Modern_Warfare_2_2009/
-{ "name": "iw4sp.exe", "type": "Game" }
-{ "name": "iw4mp.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/42700/Call_of_Duty_Black_Ops/
 { "name": "BlackOps.exe", "type": "Game" }
 
@@ -407,6 +387,24 @@
 { "name": "t6mp.exe", "type": "Game" }
 { "name": "t6sp.exe", "type": "Game" }
 { "name": "t6zm.exe", "type": "Game" }
+
+# Call of Duty Black Ops III https://store.steampowered.com/app/311210/Call_of_Duty_Black_Ops_III/
+{ "name": "BlackOps3.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/10180/Call_of_Duty_Modern_Warfare_2_2009/
+{ "name": "iw4sp.exe", "type": "Game" }
+{ "name": "iw4mp.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2640/Call_of_Duty_United_Offensive/
+{ "name": "CoDUOMP.exe", "type": "Game" }
+{ "name": "CoDUOSP.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/10090/Call_of_Duty_World_at_War/
+{ "name": "CoDWaW.exe", "type": "Game" }
+{ "name": "CoDWaWmp.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/204450/Call_of_Juarez_Gunslinger/
+{ "name": "CoJGunslinger.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/400750/Call_to_Arms__Gates_of_Hell_Ostfront/
 { "name": "call_to_arms.exe", "type": "Game" }
@@ -416,20 +414,39 @@
 # https://store.steampowered.com/app/239250/Castlevania_Lords_of_Shadow_2/
 { "name": "CLOS2.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/234080/Castlevania_Lords_of_Shadow__Ultimate_Edition/
-{ "name": "CastlevaniaLoSUE.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/282530/Castlevania_Lords_of_Shadow__Mirror_of_Fate_HD/
 { "name": "CMOF.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/204450/Call_of_Juarez_Gunslinger/
-{ "name": "CoJGunslinger.exe", "type": "Game" }
+# https://store.steampowered.com/app/234080/Castlevania_Lords_of_Shadow__Ultimate_Edition/
+{ "name": "CastlevaniaLoSUE.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2240390/Celebrity_Kombat/
+{ "name": "CelebrityKombat.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/918570/Century_Age_of_Ashes/
+{ "name": "Century-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/39670/Chaser/
+{ "name": "Chaser.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/2075100/Chernobylite_2_Exclusion_Zone/
 { "name": "Chernobylite2.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1016800/Chernobylite_Complete_Edition/
 { "name": "ChernobylGame.exe", "type": "Game" }
+
+# Cities: Skylines - https://store.steampowered.com/app/255710/Cities_Skylines/
+{ "name": "Cities.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/949230/Cities_Skylines_II/
+{ "name": "Cities2.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1903340/Clair_Obscur_Expedition_33/
+{ "name": "Expedition33_Steam.exe", "type": "Game" }
+{ "name": "SandFall-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/3314790/CloverPit/
+{ "name": "CloverPit.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/678960/CODE_VEIN/
 { "name": "CodeVein.exe", "type": "Game" }
@@ -438,10 +455,6 @@
 # https://store.steampowered.com/app/2362060/CODE_VEIN_II/
 { "name": "CodeVein2.exe", "type": "Game" }
 { "name": "CodeVein2-Win64-Shipping.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/870780/Control_Ultimate_Edition/
-{ "name": "Control.exe", "type": "Game" }
-{ "name": "Control_DX11.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/2297010/Combat_Mission_Battle_for_Normandy/
 { "name": "CM Normandy.exe", "type": "Game" }
@@ -458,24 +471,15 @@
 # https://store.steampowered.com/app/440900/Conan_Exiles/
 { "name": "FuncomLauncher.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/39670/Chaser/
-{ "name": "Chaser.exe", "type": "Game" }
-
-# Cities: Skylines - https://store.steampowered.com/app/255710/Cities_Skylines/
-{ "name": "Cities.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/949230/Cities_Skylines_II/
-{ "name": "Cities2.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/4720/Condemned_Criminal_Origins/
 { "name": "Condemned.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1903340/Clair_Obscur_Expedition_33/
-{ "name": "Expedition33_Steam.exe", "type": "Game" }
-{ "name": "SandFall-Win64-Shipping.exe", "type": "Game" }
+# https://store.steampowered.com/app/870780/Control_Ultimate_Edition/
+{ "name": "Control.exe", "type": "Game" }
+{ "name": "Control_DX11.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/3314790/CloverPit/
-{ "name": "CloverPit.exe", "type": "Game" }
+# Crab Champions https://store.steampowered.com/app/774801/Crab_Champions/
+{ "name": "CrabChampions.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1790930/Crisol_Theater_of_Idols/
 { "name": "CrisolTheaterOfIdols.exe", "type": "Game" }
@@ -483,6 +487,10 @@
 
 # https://store.steampowered.com/app/2101960/Cronos_The_New_Dawn/
 { "name": "Cronos-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/386180/Crossout/
+{ "name": "Crossout_BE.exe", "type": "Game" }
+{ "name": "Crossout-D3D12.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1388770/Cruelty_Squad/
 { "name": "crueltysquad.exe", "type": "Game" }
@@ -497,16 +505,6 @@
 # https://store.steampowered.com/app/1091500/Cyberpunk_2077/
 { "name": "Cyberpunk2077.exe", "type": "Game" }
 { "name": "Redprelauncher", "type": "BG_CPUIO" }
-
-# https://store.steampowered.com/app/2240390/Celebrity_Kombat/
-{ "name": "CelebrityKombat.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/386180/Crossout/
-{ "name": "Crossout_BE.exe", "type": "Game" }
-{ "name": "Crossout-D3D12.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/918570/Century_Age_of_Ashes/
-{ "name": "Century-Win64-Shipping.exe", "type": "Game" }
 
 ### D ###
 
