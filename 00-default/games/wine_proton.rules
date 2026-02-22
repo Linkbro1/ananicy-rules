@@ -8,18 +8,23 @@
 
 ### A ###
 
-# Abiotic Factor
-# https://store.steampowered.com/app/427410
+# Abiotic Factor https://store.steampowered.com/app/427410/Abiotic_Factor/
 { "name": "AbioticFactor.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/502500/ACE_COMBAT_7_SKIES_UNKNOWN/
+{ "name": "Ace7Game.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1336490/Against_the_Storm/
+{ "name": "Against the Storm.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/253230/A_Hat_in_Time/
 { "name": "HatinTimeGame.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/752590/A_Plague_Tale_Innocence/
-{ "name": "APlagueTaleInnocence_x64.exe", "type": "Game" }
+# https://store.steampowered.com/app/2407270/AI_LIMIT/
+{ "name": "AI-LIMIT.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1182900/A_Plague_Tale_Requiem/
-{ "name": "APlagueTaleRequiem_x64.exe", "type": "Game" }
+# https://store.steampowered.com/app/714010/Aimlabs/
+{ "name": "AimLab_tb.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/108710/Alan_Wake/
 { "name": "AlanWake.exe", "type": "Game" }
@@ -30,25 +35,21 @@
 # https://store.steampowered.com/app/202750/Alan_Wakes_American_Nightmare/
 { "name": "alan_wakes_american_nightmare.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2407270/AI_LIMIT/
-{ "name": "AI-LIMIT.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/19680/Alice_Madness_Returns/
 { "name": "AliceMadnessReturns.exe", "type": "Game" }
-
-# Arknights: Endfield
-# https://endfield.gryphline.com/
-{ "name": "Endfield.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/3730/Aliens_versus_Predator_Classic_2000/
-{ "name": "AvP_Classic.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/10680/Aliens_vs_Predator/
 { "name": "AvP_DX11.exe", "type": "Game" }
 { "name": "AvP.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/3730/Aliens_versus_Predator_Classic_2000/
+{ "name": "AvP_Classic.exe", "type": "Game" }
+
 # American Truck Simulator https://store.steampowered.com/app/270880/American_Truck_Simulator/
 { "name": "amtrucks.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/673130/AMID_EVIL/
+{ "name": "AmidEvil.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/242940/Anachronox/
 { "name": "anox.exe", "type": "Game" }
@@ -56,20 +57,13 @@
 # https://store.steampowered.com/app/1978590/Anger_Foot/
 { "name": "AngerFoot.exe", "type": "Game" }
 
-# Anno 117: Pax Romana
-# https://store.steampowered.com/app/3274580/Anno_117_Pax_Romana/
+# Anno 117: Pax Romana https://store.steampowered.com/app/3274580/Anno_117_Pax_Romana/
 { "name": "Anno117.exe", "type": "Game" }
 { "name": "Anno117_plus.exe", "type": "Game" }
 
-# Anno 1800
-# https://store.steampowered.com/app/916440/Anno_1800/
+# Anno 1800 https://store.steampowered.com/app/916440/Anno_1800/
 { "name": "Anno1800.exe", "type": "Game" }
 { "name": "Anno1800_plus.exe", "type": "Game" }
-
-# Ashes of creation
-# https://store.steampowered.com/app/4124950/Ashes_of_Creation/
-{ "name": "AOCClient-Win64-Shipping.exe", "type": "Game" }
-{ "name": "IntrepidStudiosLauncher.exe", "type": "BG_CPUIO" }
 
 # https://store.steampowered.com/app/1902490/Aperture_Desk_Job/
 { "name": "deskjob.exe", "type": "Game" }
@@ -78,8 +72,21 @@
 { "name": "r5apex_dx12.exe", "type": "Game" }
 { "name": "r5apex.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/752590/A_Plague_Tale_Innocence/
+{ "name": "APlagueTaleInnocence_x64.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1182900/A_Plague_Tale_Requiem/
+{ "name": "APlagueTaleRequiem_x64.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/1808500/ARC_Raiders/
 { "name": "PioneerGame.exe", "type": "Game" }
+
+# Arknights: Endfield https://endfield.gryphline.com/
+{ "name": "Endfield.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/346110/ARK_Survival_Evolved/
+{ "name": "ShooterGame_BE.exe", "type": "Game" }
+{ "name": "ShooterGame.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/107410/Arma_3/
 { "name": "arma3_x64.exe", "type": "Game" }
@@ -90,21 +97,16 @@
 # https://store.steampowered.com/app/1888160/ARMORED_CORE_VI_FIRES_OF_RUBICON/
 { "name": "armoredcore6.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/15100/Assassins_Creed_Directors_Cut_Edition/
+# Ashes of creation https://store.steampowered.com/app/4124950/Ashes_of_Creation/
+{ "name": "AOCClient-Win64-Shipping.exe", "type": "Game" }
+{ "name": "IntrepidStudiosLauncher.exe", "type": "BG_CPUIO" }
+
+# Assassin`s Creed  https://store.steampowered.com/app/15100/Assassins_Creed_Directors_Cut_Edition/
 { "name": "AssassinsCreed_Dx9.exe", "type": "Game" }
 { "name": "AssassinsCreed_Dx10.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/33230/Assassins_Creed_2/
 { "name": "AssassinsCreedIIGame.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/48190/Assassins_Creed_Brotherhood/
-{ "name": "ACBSP.exe", "type": "Game" }
-{ "name": "ACBMP.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/201870/Assassins_Creed_Revelations/
-{ "name": "ACRMP.exe", "type": "Game" }
-{ "name": "ACRPR.exe", "type": "Game" }
-{ "name": "ACRSP.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/911400/Assassins_Creed_III_Remastered/
 { "name": "AC3SP.exe", "type": "Game" }
@@ -114,30 +116,39 @@
 { "name": "AC4BFMP.exe", "type": "Game" }
 { "name": "AC4BFSP.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/311560/Assassins_Creed_Rogue/
-{ "name": "ACC.exe", "type": "Game" }
+# https://store.steampowered.com/app/48190/Assassins_Creed_Brotherhood/
+{ "name": "ACBSP.exe", "type": "Game" }
+{ "name": "ACBMP.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/289650/Assassins_Creed_Unity/
-{ "name": "ACU.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/368500/Assassins_Creed_Syndicate/
-{ "name": "ACS.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/582160/Assassins_Creed_Origins/
-{ "name": "ACOrigins.exe", "type": "Game" }
+# https://store.steampowered.com/app/3035570/Assassins_Creed_Mirage/
+{ "name": "ACMirage.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/812140/Assassins_Creed_Odyssey/
 { "name": "ACOdyssey.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2208920/Assassins_Creed_Valhalla/
-{ "name": "ACValhalla_Plus.exe", "type": "Game" }
-{ "name": "ACValhalla.exe", "type": "Game" }
+# https://store.steampowered.com/app/582160/Assassins_Creed_Origins/
+{ "name": "ACOrigins.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/201870/Assassins_Creed_Revelations/
+{ "name": "ACRMP.exe", "type": "Game" }
+{ "name": "ACRPR.exe", "type": "Game" }
+{ "name": "ACRSP.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/311560/Assassins_Creed_Rogue/
+{ "name": "ACC.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/3159330/Assassins_Creed_Shadows/
 { "name": "ACShadows.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/3035570/Assassins_Creed_Mirage/
-{ "name": "ACMirage.exe", "type": "Game" }
+# https://store.steampowered.com/app/368500/Assassins_Creed_Syndicate/
+{ "name": "ACS.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/289650/Assassins_Creed_Unity/
+{ "name": "ACU.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2208920/Assassins_Creed_Valhalla/
+{ "name": "ACValhalla_Plus.exe", "type": "Game" }
+{ "name": "ACValhalla.exe", "type": "Game" }
 
 # Assetto Corsa, https://store.steampowered.com/app/244210/Assetto_Corsa/
 { "name": "acs.exe", "type": "Game" }
@@ -163,23 +174,6 @@
 
 # https://store.steampowered.com/app/2840770/Avatar_Frontiers_of_Pandora/
 { "name": "afop.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/502500/ACE_COMBAT_7_SKIES_UNKNOWN/
-{ "name": "Ace7Game.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1336490/Against_the_Storm/
-{ "name": "Against the Storm.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/673130/AMID_EVIL/
-{ "name": "AmidEvil.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/714010/Aimlabs/
-{ "name": "AimLab_tb.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/346110/ARK_Survival_Evolved/
-{ "name": "ShooterGame_BE.exe", "type": "Game" }
-{ "name": "ShooterGame.exe", "type": "Game" }
-
 
 ### B ###
 
