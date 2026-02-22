@@ -767,21 +767,14 @@
 
 ### F ###
 
-# FINAL FANTASY TACTICS - The Ivalice Chronicles https://store.steampowered.com/app/1004640/FINAL_FANTASY_TACTICS__The_Ivalice_Chronicles/
-{ "name": "FFT_enhanced.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/288470/Fable_Anniversary
 { "name": "Fable Anniversary.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/204030/Fable__The_Lost_Chapters
 { "name": "Fable.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1928420/Farlight_84/
-{ "name": "SolarlandClient-Win64-Shipping.exe", "type": "Game" }
-{ "name": "SolarlandClient.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/38400/Fallout_A_Post_Nuclear_Role_Playing_Game/
-{ "name": "falloutw.exe", "type": "Game" }
+# https://store.epicgames.com/en-US/p/fall-guys
+{ "name": "FallGuys_client_game.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/38410/Fallout_2_A_Post_Nuclear_Role_Playing_Game/
 { "name": "fallout2.exe", "type": "Game" }
@@ -793,14 +786,21 @@
 { "name": "Fallout3.exe", "type": "Game" }
 { "name": "Fallout3 - Garden of Eden Creation Kit.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/22380/Fallout_New_Vegas/
-{ "name": "FalloutNV.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/377160/Fallout_4/
 { "name": "Fallout4.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1151340/Fallout_76/
 { "name": "Fallout76.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/38400/Fallout_A_Post_Nuclear_Role_Playing_Game/
+{ "name": "falloutw.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/22380/Fallout_New_Vegas/
+{ "name": "FalloutNV.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1928420/Farlight_84/
+{ "name": "SolarlandClient-Win64-Shipping.exe", "type": "Game" }
+{ "name": "SolarlandClient.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1732190/FATAL_FRAME__PROJECT_ZERO_Maiden_of_Black_Water/
 { "name": "FATAL_FRAME_MOBW.exe", "type": "Game" }
@@ -820,23 +820,23 @@
 # Fellowship (By Chief Rebel Games. Not to be confused with Fellowship by Elraim Studio.) https://store.steampowered.com/app/2352620/Fellowship/
 { "name": "fellowship-Win64-Shipping.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1462040/FINAL_FANTASY_VII_REMAKE_INTERGRADE/
-{ "name": "ff7remake.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/2909400/FINAL_FANTASY_VII_REBIRTH/
 { "name": "ff7rebirth.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/637650/FINAL_FANTASY_XV_WINDOWS_EDITION/
-{ "name": "ffxv_s.exe", "type": "Game" }
+# https://store.steampowered.com/app/1462040/FINAL_FANTASY_VII_REMAKE_INTERGRADE/
+{ "name": "ff7remake.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/39210/FINAL_FANTASY_XIV_Online/
 { "name": "ffxiv_dx11.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/637650/FINAL_FANTASY_XV_WINDOWS_EDITION/
+{ "name": "ffxv_s.exe", "type": "Game" }
+
+# FINAL FANTASY TACTICS - The Ivalice Chronicles https://store.steampowered.com/app/1004640/FINAL_FANTASY_TACTICS__The_Ivalice_Chronicles/
+{ "name": "FFT_enhanced.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/319510/Five_Nights_at_Freddys/
 { "name": "FiveNightsatFreddys.exe", "type": "Game" }
-
-# FNAF 1 REMAKE (Five Nights at Freddy's REMAKE) https://gamejolt.com/games/imadethisforyou/981759
-{ "name": "FNAF 1 REMAKE.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/732690/FIVE_NIGHTS_AT_FREDDYS_HELP_WANTED/
 { "name": "freddys.exe", "type": "Game" }
@@ -849,24 +849,24 @@
 # Flyout https://store.steampowered.com/app/777390/Flyout/
 { "name": "Flyout.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1680880/Forspoken/
-{ "name": "FORSPOKEN.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1551360/Forza_Horizon_5/
-{ "name": "ForzaHorizon5.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1293830/Forza_Horizon_4/
-{ "name": "ForzaHorizon4.exe", "type": "Game" }
+# FNAF 1 REMAKE (Five Nights at Freddy's REMAKE) https://gamejolt.com/games/imadethisforyou/981759
+{ "name": "FNAF 1 REMAKE.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/304390/FOR_HONOR/
 { "name": "forhonor.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1680880/Forspoken/
+{ "name": "FORSPOKEN.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1293830/Forza_Horizon_4/
+{ "name": "ForzaHorizon4.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1551360/Forza_Horizon_5/
+{ "name": "ForzaHorizon5.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/2943650/FragPunk/
 { "name": "FragPunk.exe", "type": "Game" }
 { "name": "FragNeacClient.exe", "type": "Game" }
-
-# https://store.epicgames.com/en-US/p/fall-guys
-{ "name": "FallGuys_client_game.exe", "type": "Game" }
 
 ### G ###
 
