@@ -184,14 +184,17 @@
 { "name": "bg3_dx11.exe", "type": "Game" }
 { "name": "bg3.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/2226280/BAPBAP/
+{ "name": "bapbap.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/208650/Batman_Arkham_Knight/
 { "name": "BatmanAK.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/209000/Batman_Arkham_Origins/
-{ "name": "BatmanOriginsOnline.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/200260/Batman_Arkham_City__Game_of_the_Year_Edition/
 { "name": "BatmanAC.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/209000/Batman_Arkham_Origins/
+{ "name": "BatmanOriginsOnline.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/35140/Batman_Arkham_Asylum_Game_of_the_Year_Edition/
 { "name": "ShippingPC-BmGame.exe", "type": "Game" }
@@ -207,14 +210,14 @@
 # https://store.steampowered.com/app/1517290/Battlefield_2042/
 { "name": "bf2042.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1238810/Battlefield_V/
-{ "name": "bfv.exe", "type": "Game" }
+# https://store.steampowered.com/app/1238820/Battlefield_3/
+{ "name": "bf3.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1238860/Battlefield_4/
 { "name": "bf4.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1238820/Battlefield_3/
-{ "name": "bf3.exe", "type": "Game" }
+# https://store.steampowered.com/app/1238810/Battlefield_V/
+{ "name": "bfv.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1238880/Battlefield_Hardline/
 { "name": "bfh.exe", "type": "Game" }
@@ -231,6 +234,9 @@
 # Beat Saber https://store.steampowered.com/app/620980/Beat_Saber/
 { "name": "Beat Saber.exe", "type": "Game" }
 
+# https://store.epicgames.com/en-US/p/beyond-blue
+{ "name": "Beyond Blue.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/3371240/Beyond_Citadel/
 { "name": "beyond_citadel.exe", "type": "Game" }
 { "name": "beyond_citadel-Win64-Shipping.exe", "type": "Game" }
@@ -241,9 +247,6 @@
 # https://store.steampowered.com/app/7670/BioShock/
 { "name": "Bioshock.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/409710/BioShock_Remastered/
-{ "name": "BioshockHD.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/8850/BioShock_2/
 { "name": "Bioshock2.exe", "type": "Game" }
 
@@ -252,6 +255,9 @@
 
 # https://store.steampowered.com/app/8870/BioShock_Infinite/
 { "name": "BioShockInfinite.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/409710/BioShock_Remastered/
+{ "name": "BioshockHD.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/582660/Black_Desert/
 { "name": "blackdesert64.exe", "type": "Game" }
@@ -263,68 +269,80 @@
 # Blade and Sorcery https://store.steampowered.com/app/629730/Blade_and_Sorcery/
 { "name": "BladeAndSorcery.exe", "type": "Game" }
 
+# Blasphemous https://store.steampowered.com/app/774361/Blasphemous/
+{ "name": "Blasphemous.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2114740/Blasphemous_2/
+{ "name": "Blasphemous 2.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/1173220/Bleak_Faith_Forsaken/
 { "name": "Forsaken.exe", "type": "Game" }
 { "name": "Forsaken-Win64-Shipping.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/3681810/Blue_Protocol_Star_Resonance/
-{ "name": "BPSR.exe", "type": "Game"}
-
-# https://store.steampowered.com/app/3810/BloodRayne_Legacy/
-{ "name": "rayne.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/3820/BloodRayne_2_Legacy/
 { "name": "br2.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1373550/BloodRayne_2_Terminal_Cut/
+{ "name": "rayne2.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/281220/BloodRayne_Betrayal/
 { "name": "bloodrayne.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/3810/BloodRayne_Legacy/
+{ "name": "rayne.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/1373510/BloodRayne_Terminal_Cut/
 { "name": "rayne1.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1373550/BloodRayne_2_Terminal_Cut/
-{ "name": "rayne2.exe", "type": "Game" }
+# https://store.steampowered.com/app/838310/Bloodstained_Curse_of_the_Moon/
+{ "name": "COTM.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/692850/Bloodstained_Ritual_of_the_Night/
 { "name": "BloodstainedRotN.exe", "type": "Game" }
 { "name": "BloodstainedRotN-Win64-Shipping.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/838310/Bloodstained_Curse_of_the_Moon/
-{ "name": "COTM.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/960090/Bloons_TD_6/
-{ "name": "BloonsTD6.exe", "type": "Game" }
+# https://store.steampowered.com/app/3199170/Blood_Strike/
+{ "name": "BloodStrike.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/306020/Bloons_TD_5/
 { "name": "BTD5-Win.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/960090/Bloons_TD_6/
+{ "name": "BloonsTD6.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/1276390/Bloons_TD_Battles_2/
 { "name": "btdb2_game.exe", "type": "Game" }
 
-# Blue Archive
-# https://store.steampowered.com/app/3557620/Blue_Archive/
+# Blue Archive https://store.steampowered.com/app/3557620/Blue_Archive/
 { "name": "BlueArchive.exe", "type": "Game" }
 
-# BONEWORKS https://store.steampowered.com/app/823500/BONEWORKS/
-{ "name": "BONEWORKS.exe", "type": "Game" }
+# https://store.steampowered.com/app/3681810/Blue_Protocol_Star_Resonance/
+{ "name": "BPSR.exe", "type": "Game"}
 
 # BONELAB https://store.steampowered.com/app/1592190/BONELAB/
 { "name": "BONELAB_Steam_Windows64.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/397540/Borderlands_3/
-{ "name": "Borderlands3.exe", "type": "Game" }
+# BONEWORKS https://store.steampowered.com/app/823500/BONEWORKS/
+{ "name": "BONEWORKS.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/49520/Borderlands_2/
 { "name": "Borderlands2.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/261640/Borderlands_The_PreSequel/
-{ "name": "BorderlandsPreSequel.exe", "type": "Game" }
+# https://store.steampowered.com/app/397540/Borderlands_3/
+{ "name": "Borderlands3.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/8980/Borderlands_Game_of_the_Year/
 { "name": "Borderlands.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/729040/Borderlands_Game_of_the_Year_Enhanced/
 { "name": "BorderlandsGOTY.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/261640/Borderlands_The_PreSequel/
+{ "name": "BorderlandsPreSequel.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1286350/BPM_BULLETS_PER_MINUTE/
+{ "name": "BPMGame-Win64-Shipping.exe", "type": "Game" }
+{ "name": "BPMGame.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1623940/Bramble_The_Mountain_King/
 { "name": "Bramble_TMK.exe", "type": "Game" }
@@ -333,30 +351,11 @@
 # https://store.steampowered.com/app/1942280/Brotato/
 { "name": "Brotato.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1286350/BPM_BULLETS_PER_MINUTE/
-{ "name": "BPMGame-Win64-Shipping.exe", "type": "Game" }
-{ "name": "BPMGame.exe", "type": "Game" }
-
-# https://steamcommunity.com/app/24740/
+# https://store.steampowered.com/app/24740/Burnout_Paradise_The_Ultimate_Box/
 { "name": "burnoutparadise.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/2428980/Bye_Sweet_Carole/
 { "name": "Bye Sweet Carole.exe", "type": "Game" }
-
-# Blasphemous (proton) https://store.steampowered.com/app/774361/Blasphemous/
-{ "name": "Blasphemous.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/2114740/Blasphemous_2/
-{ "name": "Blasphemous 2.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/3199170/Blood_Strike/
-{ "name": "BloodStrike.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/2226280/BAPBAP/
-{ "name": "bapbap.exe", "type": "Game" }
-
-# https://store.epicgames.com/en-US/p/beyond-blue
-{ "name": "Beyond Blue.exe", "type": "Game" }
 
 ### C ###
 
