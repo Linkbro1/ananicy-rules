@@ -767,8 +767,7 @@
 
 ### F ###
 
-# FINAL FANTASY TACTICS - The Ivalice Chronicles
-# https://store.steampowered.com/app/1004640
+# FINAL FANTASY TACTICS - The Ivalice Chronicles https://store.steampowered.com/app/1004640/FINAL_FANTASY_TACTICS__The_Ivalice_Chronicles/
 { "name": "FFT_enhanced.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/288470/Fable_Anniversary
@@ -818,13 +817,8 @@
 # https://store.steampowered.com/app/21100/FEAR_3/
 { "name": "F.E.A.R. 3.exe", "type": "Game" }
 
-# Fellowship (By Chief Rebel Games. Not to be confused with Fellowship by Elraim Studio.)
-# https://store.steampowered.com/app/2352620/Fellowship/
+# Fellowship (By Chief Rebel Games. Not to be confused with Fellowship by Elraim Studio.) https://store.steampowered.com/app/2352620/Fellowship/
 { "name": "fellowship-Win64-Shipping.exe", "type": "Game" }
-
-# Final Fantasy
-# https://store.steampowered.com/app/1358700/STRANGER_OF_PARADISE_FINAL_FANTASY_ORIGIN/
-{ "name": "SOPFFO.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1462040/FINAL_FANTASY_VII_REMAKE_INTERGRADE/
 { "name": "ff7remake.exe", "type": "Game" }
@@ -841,7 +835,7 @@
 # https://store.steampowered.com/app/319510/Five_Nights_at_Freddys/
 { "name": "FiveNightsatFreddys.exe", "type": "Game" }
 
-# https://gamejolt.com/games/imadethisforyou/981759
+# FNAF 1 REMAKE (Five Nights at Freddy's REMAKE) https://gamejolt.com/games/imadethisforyou/981759
 { "name": "FNAF 1 REMAKE.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/732690/FIVE_NIGHTS_AT_FREDDYS_HELP_WANTED/
@@ -1966,6 +1960,9 @@
 
 # https://store.steampowered.com/app/312670/Strange_Brigade/
 { "name": "StrangeBrigade.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1358700/STRANGER_OF_PARADISE_FINAL_FANTASY_ORIGIN/
+{ "name": "SOPFFO.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1332010/Stray/
 { "name": "Stray.exe", "type": "Game" }
