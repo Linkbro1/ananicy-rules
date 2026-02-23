@@ -2191,6 +2191,9 @@
 
 ### T ###
 
+# Tabletop Simulator https://store.steampowered.com/app/286160/Tabletop_Simulator/
+{ "name": "Tabletop Simulator.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/1466060/Tainted_Grail_The_Fall_of_Avalon/
 { "name": "Fall of Avalon.exe", "type": "Game" }
 
@@ -2201,8 +2204,8 @@
 { "name": "teardown.exe", "type": "Game" }
 { "name": "teardown_modtest.exe", "type": "Game" }
 
-# Tomb Raider Game of the Year https://store.steampowered.com/app/203160/Tomb_Raider_Game_of_the_Year/
-{ "name": "TombRaider.exe", "type": "Game" }
+# https://store.steampowered.com/app/1486920/Tempest_Rising
+{ "name": "Tempest-Win64-Shipping.exe", "type": "Game" }
 
 # Temtem: Swarm https://store.steampowered.com/app/2510960/Temtem_Swarm/
 { "name": "TemtemSwarm.exe", "type": "Game" }
@@ -2213,32 +2216,8 @@
 # https://store.steampowered.com/app/105600/Terraria/
 { "name": "Terraria", "type": "Game" }
 
-# https://store.steampowered.com/app/1486920/Tempest_Rising
-{ "name": "Tempest-Win64-Shipping.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/365590/Tom_Clancys_The_Division/
-{ "name": "thedivision.exe", "type": "Game" }
-
-# Tom Clancy's Ghost Recon Advanced Warfighter
-{ "name": "GRAW.exe", "type": "Game" }
-{ "name": "GRAW-standalone.exe", "type": "Game" }
-
-# Tom Clancy's Ghost Recon Advanced Warfighter 2
-{ "name": "graw2.exe", "type": "Game" }
-{ "name": "graw2_dedicated.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/2221490/Tom_Clancys_The_Division_2/
-{ "name": "TheDivision2.exe", "type": "Game" }
-{ "name": "thedivision2launcher.exe", "type": "Game" }
-{ "name": "EACLaunch.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/518790/theHunter_Call_of_the_Wild/
+# theHunter: Call of the Wild https://store.steampowered.com/app/518790/theHunter_Call_of_the_Wild/
 { "name": "theHunterCotW_F.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/211600/Thief_Gold/
-# https://www.ttlg.com/forums/showthread.php?t=134733
-{ "name": "THIEF.EXE", "type": "Game" }
-{ "name": "THIEF_no_ddfix.EXE", "type": "Game" }
 
 # https://store.steampowered.com/app/239160/Thief/
 { "name": "Shipping-ThiefGame.exe", "type": "Game" }
@@ -2253,16 +2232,46 @@
 { "name": "t3.exe", "type": "Game" }
 { "name": "T3Main.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/211600/Thief_Gold/
+# https://www.ttlg.com/forums/showthread.php?t=134733
+{ "name": "THIEF.EXE", "type": "Game" }
+{ "name": "THIEF_no_ddfix.EXE", "type": "Game" }
+
 # https://store.steampowered.com/app/2429640/THRONE_AND_LIBERTY/
 # this is from open beta test, beware
 { "name": "TL.exe", "type": "Game" }
 { "name": "UnrealCEFSubProcess.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1343240/Thymesia/
+{ "name": "PlagueProject.exe", "type": "Game" }
+
+# https://store.epicgames.com/en-US/p/tiny-tinas-wonderlands
+{ "name": "Wonderlands.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1237970/Titanfall_2/
 { "name": "Titanfall2.exe", "type": "Game" }
 
 # Tokyo Xtreme Racer https://store.steampowered.com/app/2634950/Tokyo_Xtreme_Racer/
 { "name": "TokyoXtremeRacer-Win64-Shipping.exe", "type": "Game" }
+
+# Tomb Raider Game of the Year https://store.steampowered.com/app/203160/Tomb_Raider_Game_of_the_Year/
+{ "name": "TombRaider.exe", "type": "Game" }
+
+# Tom Clancy's Ghost Recon Advanced Warfighter
+{ "name": "GRAW.exe", "type": "Game" }
+{ "name": "GRAW-standalone.exe", "type": "Game" }
+
+# Tom Clancy's Ghost Recon Advanced Warfighter 2
+{ "name": "graw2.exe", "type": "Game" }
+{ "name": "graw2_dedicated.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/365590/Tom_Clancys_The_Division/
+{ "name": "thedivision.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2221490/Tom_Clancys_The_Division_2/
+{ "name": "TheDivision2.exe", "type": "Game" }
+{ "name": "thedivision2launcher.exe", "type": "Game" }
+{ "name": "EACLaunch.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/41500/Torchlight/
 { "name": "Torchlight.exe", "type": "Game" }
@@ -2283,9 +2292,6 @@
 # https://store.steampowered.com/app/298030/Total_Annihilation/
 { "name": "TAE.EXE", "type": "Game" }
 { "name": "TotalA.exe", "type": "Game" }
-
-# A Total War Saga: Troy - https://store.epicgames.com/de/p/a-total-war-saga-troy
-{ "name": "Troy.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1142710/Total_War_WARHAMMER_III/
 { "name": "Warhammer3.exe", "type": "Game" }
@@ -2309,14 +2315,8 @@
 # https://store.steampowered.com/app/1328350/Turbo_Overkill/
 { "name": "Turbo Overkill.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1343240/Thymesia/
-{ "name": "PlagueProject.exe", "type": "Game" }
-
-# Tabletop Simulator https://store.steampowered.com/app/286160/Tabletop_Simulator/
-{ "name": "Tabletop Simulator.exe", "type": "Game" }
-
-# https://store.epicgames.com/en-US/p/tiny-tinas-wonderlands
-{ "name": "Wonderlands.exe", "type": "Game" }
+# A Total War Saga: Troy - https://store.epicgames.com/de/p/a-total-war-saga-troy
+{ "name": "Troy.exe", "type": "Game" }
 
 ### U ###
 
