@@ -2386,11 +2386,10 @@
 
 ### W ###
 
-# Where Winds Meet
-# https://store.steampowered.com/app/3564740
+# Where Winds Meet https://store.steampowered.com/app/3564740/Where_Winds_Meet/
 { "name": "wwm.exe", "type": "Game" }
 
-# Warframe (via Steam Proton): https://store.steampowered.com/app/230410/warframe
+# Warframe https://store.steampowered.com/app/230410/warframe
 { "name": "Warframe.x64.exe", "type": "Game" }
 
 # Wargame: Air Land Battle - https://store.steampowered.com/app/222750/Wargame_Airland_Battle/
@@ -2427,9 +2426,9 @@
 # Watch Dogs 2 via UPlay
 { "name": "WatchDogs2.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/20900
-# https://store.steampowered.com/app/20920
-# https://store.steampowered.com/app/292030
+# https://store.steampowered.com/app/20900/The_Witcher_Enhanced_Edition_Directors_Cut/
+# https://store.steampowered.com/app/20920/The_Witcher_2_Assassins_of_Kings_Enhanced_Edition/
+# https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/
 { "name": "witcher.exe", "type": "Game" }
 { "name": "witcher2.exe", "type": "Game" }
 { "name": "witcher3.exe", "type": "Game" }
