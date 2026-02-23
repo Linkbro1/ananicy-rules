@@ -870,31 +870,36 @@
 
 ### G ###
 
-# https://store.steampowered.com/app/1224600/G_String/
-{ "name": "gstring.exe", "type": "Game" }
-
-# Gas Station Simulator
-# https://store.steampowered.com/app/1149620
-{ "name": "GSS2.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/4000/Garrys_Mod/
-# Proton version of Garry's mod
 { "name": "gmod.exe", "type": "Game" }
 
-# GenshinImpact International version
-{ "name": "GenshinImpact.exe", "type": "Game" }
+# Gas Station Simulator https://store.steampowered.com/app/1149620/Gas_Station_Simulator/
+{ "name": "GSS2.exe", "type": "Game" }
 
-# Chinese version
+# GenshinImpact Chinese version https://genshin.hoyoverse.com/en/
 { "name": "YuanShen.exe", "type": "Game" }
+
+# GenshinImpact International version https://genshin.hoyoverse.com/en/
+{ "name": "GenshinImpact.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/2215430/Ghost_of_Tsushima_DIRECTORS_CUT/
 { "name": "GhostOfTsushima.exe", "type": "Game" }
 
+# https://store.epicgames.com/en-US/p/ghostrunner
+{ "name": "Ghostrunner.exe", "type": "Game" }
+{ "name": "Ghostrunner-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.epicgames.com/en-US/p/ghostwire-tokyo
+{ "name": "GWT.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/1150760/Gloomwood/
 { "name": "Gloomwood.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1217060/Gunfire_Reborn/
-{ "name": "Gunfire Reborn.exe", "type": "Game" }
+# https://store.steampowered.com/app/1593500/God_of_War/
+{ "name": "GoW.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2322010/God_of_War_Ragnark/
+{ "name": "GoWR.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/65540/Gothic_1/
 # https://github.com/GothicFixTeam/GothicFix
@@ -908,18 +913,24 @@
 # https://store.steampowered.com/app/39500/Gothic_3/
 { "name": "Gothic3.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1090630/Granblue_Fantasy_Versus/
+{ "name": "GBVS.exe", "type": "Game" }
+{ "name": "GBVS-Win64-Shipping.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/1034860/GRANDIA_HD_Remaster/
 { "name": "grandia.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/330390/GRANDIA_II_HD_Remaster/
 { "name": "grandia2.exe", "type": "Game" }
 
-# Grounded, https://store.steampowered.com/app/962130/Grounded/
-{ "name": "Maine-Win64-Shipping.exe", "type": "Game" }
+# https://store.steampowered.com/app/12170/Grand_Theft_Auto
+{ "name": "Grand Theft Auto.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1090630/Granblue_Fantasy_Versus/
-{ "name": "GBVS.exe", "type": "Game" }
-{ "name": "GBVS-Win64-Shipping.exe", "type": "Game" }
+# https://store.steampowered.com/app/12180/Grand_Theft_Auto_2
+{ "name": "gta2.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/12100/Grand_Theft_Auto_III
+{ "name": "gta3.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/12210/Grand_Theft_Auto_IV_The_Complete_Edition/
 { "name": "GTAIV.exe", "type": "Game" }
@@ -933,40 +944,26 @@
 # https://store.steampowered.com/app/12110/Grand_Theft_Auto_Vice_City/
 { "name": "gta-vc.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/12100/Grand_Theft_Auto_III
-{ "name": "gta3.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/12180/Grand_Theft_Auto_2
-{ "name": "gta2.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/12170/Grand_Theft_Auto
-{ "name": "Grand Theft Auto.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/606880/GreedFall/
 { "name": "GreedFall.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/219990/Grim_Dawn/
-{ "name": "Grim Dawn.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1284210/Guild_Wars_2/
-{ "name": "Gw2-64.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1593500/God_of_War/
-{ "name": "GoW.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/2322010/God_of_War_Ragnark/
-{ "name": "GoWR.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/815370/Green_Hell/
 { "name": "GH.exe", "type": "Game" }
 
-# https://store.epicgames.com/en-US/p/ghostrunner
-{ "name": "Ghostrunner.exe", "type": "Game" }
-{ "name": "Ghostrunner-Win64-Shipping.exe", "type": "Game" }
+# https://store.steampowered.com/app/219990/Grim_Dawn/
+{ "name": "Grim Dawn.exe", "type": "Game" }
 
-# https://store.epicgames.com/en-US/p/ghostwire-tokyo
-{ "name": "GWT.exe", "type": "Game" }
+# Grounded, https://store.steampowered.com/app/962130/Grounded/
+{ "name": "Maine-Win64-Shipping.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1224600/G_String/
+{ "name": "gstring.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1284210/Guild_Wars_2/
+{ "name": "Gw2-64.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1217060/Gunfire_Reborn/
+{ "name": "Gunfire Reborn.exe", "type": "Game" }
 
 ### H ###
 
