@@ -1414,6 +1414,16 @@
 
 ### N ###
 
+# https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/
+{ "name": "NarakaBladepoint.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1222680/Need_for_Speed_Heat/
+{ "name": "NeedForSpeedHeat.exe", "type": "Game" }
+{ "name": "EADesktop.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1451940/NEEDY_STREAMER_OVERLOAD/
+{ "name": "Windose.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/1063730/New_World_Aeternum/
 { "name": "NewWorld.exe", "type": "Game" }
 
@@ -1423,11 +1433,11 @@
 # https://store.steampowered.com/app/1051690/Nightmare_Reaper/
 { "name": "MyProject-Win64-Shipping.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/798460/Ni_no_Kuni_Wrath_of_the_White_Witch_Remastered/
-{ "name": "NinoKuni_WotWW_Remastered.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/589360/Ni_no_Kuni_II_Revenant_Kingdom/
 { "name": "Nino2.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/798460/Ni_no_Kuni_Wrath_of_the_White_Witch_Remastered/
+{ "name": "NinoKuni_WotWW_Remastered.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/3287520/NINJA_GAIDEN_2_Black/
 { "name": "NINJAGAIDEN2BLACK.exe", "type": "Game" }
@@ -1435,15 +1445,19 @@
 # https://store.steampowered.com/app/2627260/NINJA_GAIDEN_4/
 { "name": "NINJAGAIDEN4-Steam.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/485510/Nioh_Complete_Edition/
-{ "name": "nioh_launcher.exe", "type": "BG_CPUIO" }
-{ "name": "nioh.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/1325200/Nioh_2__The_Complete_Edition/
 { "name": "nioh2.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/3681010/Nioh_3/
 { "name": "Nioh3.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/485510/Nioh_Complete_Edition/
+{ "name": "nioh_launcher.exe", "type": "BG_CPUIO" }
+{ "name": "nioh.exe", "type": "Game" }
+
+# https://store.epicgames.com/en-US/p/nobody-wants-to-die-fe21cd
+{ "name": "detnoir.exe", "type": "Game" }
+{ "name": "detnoir-Win64-Shipping.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/275850/No_Mans_Sky/
 { "name": "NMS.exe", "type": "Game" }
@@ -1453,20 +1467,6 @@
 
 # https://store.steampowered.com/app/283290/Nosferatu_The_Wrath_of_Malachi/
 { "name": "Nosferatu.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1451940/NEEDY_STREAMER_OVERLOAD/
-{ "name": "Windose.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/
-{ "name": "NarakaBladepoint.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1222680/Need_for_Speed_Heat/
-{ "name": "NeedForSpeedHeat.exe", "type": "Game" }
-{ "name": "EADesktop.exe", "type": "Game" }
-
-# https://store.epicgames.com/en-US/p/nobody-wants-to-die-fe21cd
-{ "name": "detnoir.exe", "type": "Game" }
-{ "name": "detnoir-Win64-Shipping.exe", "type": "Game" }
 
 ### O ###
 
