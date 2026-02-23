@@ -1651,7 +1651,7 @@
 # Red Dead Redemption 2 https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/
 { "name": "RDR2.exe", "type": "Game" }
 
-# Red Faction https://store.steampowered.com/app/20530
+# Red Faction https://store.steampowered.com/app/20530/Red_Faction/
 # https://github.com/rafalh/dashfaction
 { "name": "RF.exe", "type": "Game" }
 { "name": "RF_120na.exe", "type": "Game" }
@@ -1748,8 +1748,7 @@
 { "name": "Routine-Win64-Shipping.exe", "type": "Game" }
 { "name": "Routine.exe", "type": "Game" }
 
-# Ruined King: A League of Legends Story
-# https://store.steampowered.com/app/1276790
+# Ruined King: A League of Legends Story https://store.steampowered.com/app/1276790/Ruined_King_A_League_of_Legends_Story/
 { "name": "RuinedKing.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/210950/Rune_Classic/
