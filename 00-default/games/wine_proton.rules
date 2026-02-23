@@ -1297,6 +1297,24 @@
 # https://store.steampowered.com/app/12130/Manhunt/
 { "name": "manhunt.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/2767030/Marvel_Rivals/
+{ "name": "Marvel.exe", "type": "Game" }
+{ "name": "Marvel-Win64-Shipping.exe", "type": "Game" }
+{ "name": "MarvelRivals_Launcher.exe", "type": "BG_CPUIO" }
+{ "name": "CapturePro.exe", "type": "BG_CPUIO" }
+{ "name": "UniCrashReporter.exe", "type": "BG_CPUIO" }
+{ "name": "client_diagnose.exe", "type": "BG_CPUIO" }
+{ "name": "upload_profile.exe", "type": "BG_CPUIO" }
+
+# https://store.epicgames.com/en-US/p/marvels-guardians-of-the-galaxy
+{ "name": "gotg.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2651280/Marvels_SpiderMan_2/
+{ "name": "Spider-Man2.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1817070/Marvels_SpiderMan_Remastered/
+{ "name": "Spider-Man.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/17460/Mass_Effect_2007/
 { "name": "MassEffect.exe", "type": "Game" }
 
@@ -1334,12 +1352,12 @@
 # https://store.steampowered.com/app/1061910/Metal_Hellsinger/
 { "name": "Metal.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/412020/Metro_Exodus/
-{ "name": "MetroExodus.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/286690/Metro_2033_Redux/
 # https://store.steampowered.com/app/287390/Metro_Last_Light_Redux/
 { "name": "metro.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/412020/Metro_Exodus/
+{ "name": "MetroExodus.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/241930/Middleearth_Shadow_of_Mordor/
 { "name": "ShadowOfMordor.exe", "type": "Game" }
@@ -1350,6 +1368,9 @@
 # https://store.steampowered.com/app/3265250/MindsEye/
 { "name": "MindsEye.exe", "type": "Game" }
 { "name": "MindsEye-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1657090/Mini_Royale/
+{ "name": "MiniRoyale.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/940910/Minoria/
 { "name": "Minoria.exe", "type": "Game" }
@@ -1372,45 +1393,24 @@
 # https://store.steampowered.com/app/582010/Monster_Hunter_World/
 { "name": "MonsterHunterWorld.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1971870/Mortal_Kombat_1/
+{ "name": "MK12.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/1110910/Mortal_Shell/
 { "name": "Dungeonhaven-Win64-Shipping.exe", "type": "Game" }
 { "name": "Dungeonhaven.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1625450/Muck/
+{ "name": "Muck.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/774171/Muse_Dash/
 { "name": "MuseDash.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/516750/My_Summer_Car/
-{ "name": "mysummercar.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/2767030/Marvel_Rivals/
-{ "name": "Marvel.exe", "type": "Game" }
-{ "name": "Marvel-Win64-Shipping.exe", "type": "Game" }
-{ "name": "MarvelRivals_Launcher.exe", "type": "BG_CPUIO" }
-{ "name": "CapturePro.exe", "type": "BG_CPUIO" }
-{ "name": "UniCrashReporter.exe", "type": "BG_CPUIO" }
-{ "name": "client_diagnose.exe", "type": "BG_CPUIO" }
-{ "name": "upload_profile.exe", "type": "BG_CPUIO" }
-
-# https://store.steampowered.com/app/1971870/Mortal_Kombat_1/
-{ "name": "MK12.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1657090/Mini_Royale/
-{ "name": "MiniRoyale.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1607250/MY_HERO_ULTRA_RUMBLE/
 { "name": "MHUR.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1625450/Muck/
-{ "name": "Muck.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1817070/Marvels_SpiderMan_Remastered/
-{ "name": "Spider-Man.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/2651280/Marvels_SpiderMan_2/
-{ "name": "Spider-Man2.exe", "type": "Game" }
-
-# https://store.epicgames.com/en-US/p/marvels-guardians-of-the-galaxy
-{ "name": "gotg.exe", "type": "Game" }
+# https://store.steampowered.com/app/516750/My_Summer_Car/
+{ "name": "mysummercar.exe", "type": "Game" }
 
 ### N ###
 
