@@ -1970,6 +1970,9 @@
 { "name": "starwarsbattlefrontii.exe", "type": "Game" }
 { "name": "starwarsbattlefrontii_trial.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1172380/STAR_WARS_Jedi_Fallen_Order/
+{ "name": "starwarsjedifallenorder.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/3489700/Stellar_Blade/
 { "name": "SB.exe", "type": "Game" }
 { "name": "SB-Win64-Shipping.exe", "type": "Game" }
@@ -2055,6 +2058,9 @@
 
 # https://store.epicgames.com/en-US/p/sable
 { "name": "Seble.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/460920/Steep/
+{ "name": "steep.exe", "type": "Game" }
 
 
 ### The ###
