@@ -2386,9 +2386,6 @@
 
 ### W ###
 
-# Where Winds Meet https://store.steampowered.com/app/3564740/Where_Winds_Meet/
-{ "name": "wwm.exe", "type": "Game" }
-
 # Warframe https://store.steampowered.com/app/230410/warframe
 { "name": "Warframe.x64.exe", "type": "Game" }
 
@@ -2401,6 +2398,9 @@
 # https://store.steampowered.com/app/2005010/Warhammer_40000_Boltgun/
 { "name": "Warhammer 40,000 Boltgun.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/2186680/Warhammer_40000_Rogue_Trader/
+{ "name": "WH40KRT.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/55150/Warhammer_40000_Space_Marine__Anniversary_Edition/
 { "name": "SpaceMarine.exe", "type": "Game" }
 
@@ -2409,9 +2409,6 @@
 
 # https://store.steampowered.com/app/2183900/Warhammer_40000_Space_Marine_2/
 { "name": "Warhammer 40000 Space Marine 2 - Retail.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/2186680/Warhammer_40000_Rogue_Trader/
-{ "name": "WH40KRT.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/552500/Warhammer_Vermintide_2/
 { "name": "vermintide2_dx12.exe", "type": "Game" }
@@ -2426,6 +2423,15 @@
 # Watch Dogs 2 via UPlay
 { "name": "WatchDogs2.exe", "type": "Game" }
 
+# Where Winds Meet https://store.steampowered.com/app/3564740/Where_Winds_Meet/
+{ "name": "wwm.exe", "type": "Game" }
+
+# https://store.epicgames.com/en-US/p/wildcat-gun-machine-c66c4e
+{ "name": "Wildcat Gun Machine.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1911610/Windblown/
+{ "name": "Windblown.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/20900/The_Witcher_Enhanced_Edition_Directors_Cut/
 # https://store.steampowered.com/app/20920/The_Witcher_2_Assassins_of_Kings_Enhanced_Edition/
 # https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/
@@ -2436,14 +2442,14 @@
 # https://store.steampowered.com/app/3156770/Witchfire/
 { "name": "Witchfire.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/612880/Wolfenstein_II_The_New_Colossus/
+{ "name": "NewColossus_x64vk.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/201810/Wolfenstein_The_New_Order/
 { "name": "WolfNewOrder_x64.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/350080/Wolfenstein_The_Old_Blood/
 { "name": "WolfOldBlood_x64.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/612880/Wolfenstein_II_The_New_Colossus/
-{ "name": "NewColossus_x64vk.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1056960/Wolfenstein_Youngblood/
 { "name": "Youngblood_x64vk.exe", "type": "Game" }
@@ -2467,39 +2473,32 @@
 { "name": "wgc.exe", "type": "BG_CPUIO" }
 { "name": "WorldOfTanks.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1000410/WRATH_Aeon_of_Ruin/
-{ "name": "wrath-sdl.exe", "type": "Game" }
-{ "name": "wrath.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1911610/Windblown/
-{ "name": "Windblown.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1462810/WRC_10_FIA_World_Rally_Championship/
-{ "name": "WRC10.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1267540/WRC_9_FIA_World_Rally_Championship/
-{ "name": "WRC9.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1953520/WRC_Generations__The_FIA_WRC_Official_Game/
-{ "name": "WRCG.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/674020/World_War_3/
 { "name": "WW3_Launcher.exe", "type": "Game" }
 { "name": "WW3_Win64-Shipping.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/3513350/Wuthering_Waves/
-{ "name": "KRSDKExternal.exe", "type": "Game" }
-{ "name": "Client-Win64-Shipping.exe", "type": "Game" }
-{ "name": "Wuthering Waves.exe", "type": "Game" }
+# https://store.steampowered.com/app/1000410/WRATH_Aeon_of_Ruin/
+{ "name": "wrath-sdl.exe", "type": "Game" }
+{ "name": "wrath.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1267540/WRC_9_FIA_World_Rally_Championship/
+{ "name": "WRC9.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1462810/WRC_10_FIA_World_Rally_Championship/
+{ "name": "WRC10.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1953520/WRC_Generations__The_FIA_WRC_Official_Game/
+{ "name": "WRCG.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/2277560/WUCHANG_Fallen_Feathers/
 { "name": "Project_Plague.exe", "type": "Game" }
 { "name": "Project_Plague-Deck-Shipping.exe", "type": "Game" }
 { "name": "Project_Plague-Win64-Shipping.exe", "type": "Game" }
 
-# https://store.epicgames.com/en-US/p/wildcat-gun-machine-c66c4e
-{ "name": "Wildcat Gun Machine.exe", "type": "Game" }
-
+# https://store.steampowered.com/app/3513350/Wuthering_Waves/
+{ "name": "KRSDKExternal.exe", "type": "Game" }
+{ "name": "Client-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Wuthering Waves.exe", "type": "Game" }
 
 ### X ###
 ### Y ###
