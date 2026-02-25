@@ -1731,6 +1731,9 @@
 # https://store.steampowered.com/app/209100/Resident_Evil_Operation_Raccoon_City
 { "name": "RaccoonCity.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/3764200/Resident_Evil_Requiem/
+{ "name": "re9.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/222480/Resident_Evil_Revelations
 { "name": "rerev.exe", "type": "Game" }
 
