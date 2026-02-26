@@ -810,6 +810,40 @@
 # https://store.steampowered.com/app/22380/Fallout_New_Vegas/
 { "name": "FalloutNV.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/13520/Far_Cry/
+{ "name": "FarCry.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/19900/Far_Cry_2/
+{ "name": "FarCry2.exe", "type": "Game" }
+{ "name": "FC2Editor.exe", "type": "Game" }
+{ "name": "FC2BenchmarkTool.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/220240/Far_Cry_3/
+{ "name": "farcry3_d3d11.exe", "type": "Game" }
+{ "name": "FarCry3.exe", "type": "Game" }
+{ "name": "FC3Editor.exe", "type": "Game" } 
+{ "name": "FC3UpdaterSteam.exe", "type": "Game" } 
+
+# https://store.steampowered.com/app/233270/Far_Cry_3__Blood_Dragon/
+{ "name": "FC3BDUpdaterSteam.exe", "type": "Game" }
+{ "name": "fc3_blooddragon.exe", "type": "Game" }
+{ "name": "fc3_blooddragon_d3d11.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/298110/Far_Cry_4/
+{ "name": "FarCry4.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/552520/Far_Cry_5/
+{ "name": "FarCry5.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2369390/Far_Cry_6/
+{ "name": "FarCry6.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/939960/Far_Cry_New_Dawn/
+{ "name": "FarCryNewDawn.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/371660/Far_Cry_Primal/
+{ "name": "FCPrimal.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/1928420/Farlight_84/
 { "name": "SolarlandClient-Win64-Shipping.exe", "type": "Game" }
 { "name": "SolarlandClient.exe", "type": "Game" }
