@@ -23,6 +23,8 @@
 { "name": "armcord", "type": "Chat" }
 { "name": "vesktop.bin", "type": "Chat" }
 { "name": "vesktop", "type": "Chat" }
+{ "name": "equibop", "type": "Chat" }
+{ "name": "legcord", "type": "Chat" }
 
 # https://hexchat.github.io
 { "name": "hexchat", "type": "Chat" }
