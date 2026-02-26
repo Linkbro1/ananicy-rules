@@ -2355,6 +2355,12 @@
 # https://store.steampowered.com/app/1229490/ULTRAKILL/
 { "name": "ULTRAKILL.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1659420/UNCHARTED_Legacy_of_Thieves_Collection/
+{ "name": "tll.exe", "type": "Game" }
+{ "name": "tll-l.exe", "type": "Game" }
+{ "name": "u4.exe", "type": "Game" }
+{ "name": "u4-l.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/250520/UnderRail/
 { "name": "underrail.exe", "type": "Game" }
 
