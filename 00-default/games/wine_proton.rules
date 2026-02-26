@@ -187,6 +187,9 @@
 { "name": "bg3_dx11.exe", "type": "Game" }
 { "name": "bg3.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1493640/Banishers_Ghosts_of_New_Eden/
+{ "name": "Banishers-Win64-Shipping.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/2226280/BAPBAP/
 { "name": "bapbap.exe", "type": "Game" }
 
@@ -1060,6 +1063,10 @@
 # https://store.steampowered.com/app/247430/Hitman_Contracts/
 { "name": "HitmanContracts.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1659040/HITMAN_World_of_Assassination/
+{ "name": "Launcher.exe", "type": "BG_CPUIO" }
+{ "name": "HITMAN3.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/632300/Hobo_Tough_Life/
 { "name": "HoboRPG.exe", "type": "Game" }
 
@@ -1731,6 +1738,9 @@
 # https://store.steampowered.com/app/209100/Resident_Evil_Operation_Raccoon_City
 { "name": "RaccoonCity.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/3764200/Resident_Evil_Requiem/
+{ "name": "re9.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/222480/Resident_Evil_Revelations
 { "name": "rerev.exe", "type": "Game" }
 
@@ -2190,6 +2200,9 @@
 { "name": "TOTClient-Win64-Shipping.exe", "type": "Game" }
 { "name": "TOTClient.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/780310/The_Riftbreaker/
+{ "name": "riftbreaker_win_release.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/24880/The_Saboteur/
 { "name": "Saboteur.exe", "type": "Game" }
 
@@ -2203,6 +2216,10 @@
 # https://store.steampowered.com/app/835960/The_Talos_Principle_2/
 { "name": "Talos2-Win64-Shipping.exe", "type": "Game" }
 { "name": "Talos2.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1684350/The_Thaumaturge/
+{ "name": "TheThaumaturge.exe", "type": "Game" }
+{ "name": "TheThaumaturge-Win64-Shipping.exe", "type": "Game" }
 
 ### T ###
 
@@ -2338,6 +2355,12 @@
 # https://store.steampowered.com/app/1229490/ULTRAKILL/
 { "name": "ULTRAKILL.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1659420/UNCHARTED_Legacy_of_Thieves_Collection/
+{ "name": "tll.exe", "type": "Game" }
+{ "name": "tll-l.exe", "type": "Game" }
+{ "name": "u4.exe", "type": "Game" }
+{ "name": "u4-l.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/250520/UnderRail/
 { "name": "underrail.exe", "type": "Game" }
 
@@ -2409,6 +2432,9 @@
 
 # https://store.steampowered.com/app/2005010/Warhammer_40000_Boltgun/
 { "name": "Warhammer 40,000 Boltgun.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1361210/Warhammer_40000_Darktide/
+{ "name": "Darktide.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/2186680/Warhammer_40000_Rogue_Trader/
 { "name": "WH40KRT.exe", "type": "Game" }
