@@ -33,6 +33,7 @@ The **first example** is simple. In the **second example**, it is different beca
 # https://store.steampowered.com/app/620/Portal_2/
 { "name": "portal2_linux", "type": "Game" }
 ```
+### <u>You can also contribute by opening an [issue](https://github.com/lukaogadze/ananicy-rules/issues) and providing information about the application</u>
 
 ## How to find out proper process name?
 Here is a list of tools
