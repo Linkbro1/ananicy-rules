@@ -813,6 +813,11 @@
 # https://store.steampowered.com/app/13520/Far_Cry/
 { "name": "FarCry.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/19900/Far_Cry_2/
+{ "name": "FarCry2.exe", "type": "Game" }
+{ "name": "FC2Editor.exe", "type": "Game" }
+{ "name": "FC2BenchmarkTool.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/1928420/Farlight_84/
 { "name": "SolarlandClient-Win64-Shipping.exe", "type": "Game" }
 { "name": "SolarlandClient.exe", "type": "Game" }
