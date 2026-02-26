@@ -2217,6 +2217,10 @@
 { "name": "Talos2-Win64-Shipping.exe", "type": "Game" }
 { "name": "Talos2.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1684350/The_Thaumaturge/
+{ "name": "TheThaumaturge.exe", "type": "Game" }
+{ "name": "TheThaumaturge-Win64-Shipping.exe", "type": "Game" }
+
 ### T ###
 
 # Tabletop Simulator https://store.steampowered.com/app/286160/Tabletop_Simulator/
