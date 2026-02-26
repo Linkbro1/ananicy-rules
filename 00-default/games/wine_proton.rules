@@ -824,6 +824,9 @@
 { "name": "FC3Editor.exe", "type": "Game" } 
 { "name": "FC3UpdaterSteam.exe", "type": "Game" } 
 
+# https://store.steampowered.com/app/298110/Far_Cry_4/
+{ "name": "FarCry4.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/1928420/Farlight_84/
 { "name": "SolarlandClient-Win64-Shipping.exe", "type": "Game" }
 { "name": "SolarlandClient.exe", "type": "Game" }
