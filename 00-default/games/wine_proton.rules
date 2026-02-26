@@ -187,6 +187,9 @@
 { "name": "bg3_dx11.exe", "type": "Game" }
 { "name": "bg3.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1493640/Banishers_Ghosts_of_New_Eden/
+{ "name": "Banishers-Win64-Shipping.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/2226280/BAPBAP/
 { "name": "bapbap.exe", "type": "Game" }
 
