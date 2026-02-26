@@ -810,6 +810,9 @@
 # https://store.steampowered.com/app/22380/Fallout_New_Vegas/
 { "name": "FalloutNV.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/13520/Far_Cry/
+{ "name": "FarCry.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/1928420/Farlight_84/
 { "name": "SolarlandClient-Win64-Shipping.exe", "type": "Game" }
 { "name": "SolarlandClient.exe", "type": "Game" }
