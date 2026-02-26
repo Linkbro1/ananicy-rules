@@ -1,6 +1,6 @@
 ---
 name: Feature request -> Add Aplication
-about: App/Game that you want to add in Ananicy
+about: App/Game that you want to add in ananicy-rules
 
 ---
 
