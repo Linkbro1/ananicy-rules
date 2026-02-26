@@ -2427,6 +2427,9 @@
 # https://store.steampowered.com/app/2005010/Warhammer_40000_Boltgun/
 { "name": "Warhammer 40,000 Boltgun.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1361210/Warhammer_40000_Darktide/
+{ "name": "Darktide.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/2186680/Warhammer_40000_Rogue_Trader/
 { "name": "WH40KRT.exe", "type": "Game" }
 
