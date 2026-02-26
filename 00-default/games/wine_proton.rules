@@ -2200,6 +2200,9 @@
 { "name": "TOTClient-Win64-Shipping.exe", "type": "Game" }
 { "name": "TOTClient.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/780310/The_Riftbreaker/
+{ "name": "riftbreaker_win_release.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/24880/The_Saboteur/
 { "name": "Saboteur.exe", "type": "Game" }
 
