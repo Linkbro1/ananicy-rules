@@ -838,6 +838,9 @@
 # https://store.steampowered.com/app/2369390/Far_Cry_6/
 { "name": "FarCry6.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/939960/Far_Cry_New_Dawn/
+{ "name": "FarCryNewDawn.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/371660/Far_Cry_Primal/
 { "name": "FCPrimal.exe", "type": "Game" }
 
