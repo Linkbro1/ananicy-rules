@@ -824,11 +824,22 @@
 { "name": "FC3Editor.exe", "type": "Game" } 
 { "name": "FC3UpdaterSteam.exe", "type": "Game" } 
 
+# https://store.steampowered.com/app/233270/Far_Cry_3__Blood_Dragon/
+{ "name": "FC3BDUpdaterSteam.exe", "type": "Game" }
+{ "name": "fc3_blooddragon.exe", "type": "Game" }
+{ "name": "fc3_blooddragon_d3d11.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/298110/Far_Cry_4/
 { "name": "FarCry4.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/552520/Far_Cry_5/
 { "name": "FarCry5.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2369390/Far_Cry_6/
+{ "name": "FarCry6.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/371660/Far_Cry_Primal/
+{ "name": "FCPrimal.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1928420/Farlight_84/
 { "name": "SolarlandClient-Win64-Shipping.exe", "type": "Game" }
