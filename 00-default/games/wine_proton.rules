@@ -1934,6 +1934,9 @@
 # https://store.steampowered.com/app/1313/SiN_Gold/
 { "name": "sin.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/3221770/Sin_Spire/
+{ "name": "SinSpire.exe", "type": "Game" }
+
 # Smite https://www.smitegame.com/
 { "name": "CoherentUI_Host.exe", "type": "Game" }
 
